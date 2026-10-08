@@ -1,0 +1,822 @@
+{
+  "version": "1.0",
+  "reviewed_at": "2026-10-08T10:35:01.365734+00:00",
+  "author": "Codex research baseline, imported from this conversation",
+  "summary": "AI execution is cheaper and finance is more programmable. Infrastructure adoption is stronger than the evidence for token price appreciation; near-term crypto demand remains fragile.",
+  "limitations": [
+    "Snapshot is assembled from saved articles, not a fresh crawl.",
+    "Only one qualified article is from 2025; most evidence is September–October 2026.",
+    "Confidence is qualitative analyst judgment, not a calibrated probability.",
+    "Forecast scenarios are illustrative and need deeper financial modeling.",
+    "First snapshot is a real baseline, not a reconstructed daily history."
+  ],
+  "non_news_ids": [
+    "4e6b4ba27d4eb5318dab",
+    "9dd6b6690677c19d1603",
+    "81b6ac23a9a54436fea7",
+    "6134e1eac7002dc1dec5"
+  ],
+  "article_summaries": {
+    "bc03bd200225a75827b6": "Investor report argues that institutions, stablecoins and improving infrastructure drove crypto maturation in 2025; its saved version was modified in 2026.",
+    "71f3201f90f67694851d": "Strategy's compressed NAV premium and expensive financing make its BTC purchases less dependable than in earlier cycles.",
+    "4de01f54d81c1df16b1e": "Commentary describes stablecoin use in Venezuela but also identifies conversion and compliance constraints; estimates are attributed, not independently established.",
+    "4e6b4ba27d4eb5318dab": "Privacy policy describing consumer health data handling; exclude from news trend counts.",
+    "cc1d6f33d6729aa940ca": "April recovery coexisted with oil and inflation pressure, large exploit losses and growing configurable lending vaults; this page is a report summary.",
+    "bb228946eb730f327731": "Paradigm announces a $1.2B fund spanning crypto, AI and other technologies; financing signals conviction rather than realized demand.",
+    "9dd6b6690677c19d1603": "Exchange benchmark methodology page; exclude from news trend counts.",
+    "722d1b536bfa8cf44180": "Ondo announces stock representations backed through DTC tokenized entitlements; underlying securities remain within existing custody infrastructure.",
+    "58a1230a2a26488789f8": "Ondo says subsidiary Oasis Pro Markets gained authorizations enabling tokenized securities services; authorization does not itself establish customer adoption.",
+    "be2040331e1c91f9c516": "Ondo announces USDY on BNB Chain with minting, redemption and bridging; access remains subject to product and jurisdiction conditions.",
+    "2905c5eded217b5a2f75": "Reporting describes AI-designed bacteriophages that worked in laboratory experiments; synthesis hit rates and similarity to existing viruses qualify the headline.",
+    "35305757066a6f711440": "Anthropic previews a hardware standard for agents controlling lab and manufacturing devices; early partner access precedes broad rollout.",
+    "3c6cf9230d55f50c531b": "ARK and Glassnode frame decentralization as several measurable design tradeoffs, rather than a binary network ranking.",
+    "30dacbd62516de4f79bd": "ByteDance reportedly arranged a $29.6B loan amid large AI infrastructure ambitions; general-purpose financing is not all committed AI spending.",
+    "76dcab5762be77d15ced": "Glassnode and Bybit describe growing options importance and changing derivatives collateral; the saved page is a summary, not the full PDF.",
+    "81b6ac23a9a54436fea7": "Glassnode advertises a quantitative research platform; exclude this product announcement from evidence of market direction.",
+    "d099c92ee05c1f524546": "An investor favors AI infrastructure while warning about systemic risks and retaining long-term BTC conviction; personal views are not aggregate capital-flow evidence.",
+    "08db120cddfeac73db09": "Unity's official agent plugins address stale documentation and workflow context, supporting the value of domain-specific integrations.",
+    "766ddd28c11aec9659f6": "Ondo announces live distribution through NEAR Intents; platform usage figures and multichain reach are company claims.",
+    "ef1b3a4772eab8370f46": "Anthropic reports agent-assisted identification of a novel enzyme system; its function remains uncertain and downstream commercial value is unproven.",
+    "7973a43e276d22b0a32a": "BlackRock sees stablecoins as a nearer-term agent payment rail and tokenized compute as a longer-term possibility requiring standards and liquidity.",
+    "59e9899c4a7e37cc2e50": "Reporting says European supervision will focus on governance and customer outcomes for AI and tokenized finance in 2027.",
+    "68544db52ff260025d23": "Apollo's economist warns that automated yield optimization could weaken cheap bank funding; this is a scenario, and the article's dollar-interest example contains an arithmetic error.",
+    "1fab798ccbb25a2c734d": "Ondo and Kakaopay sign an MOU for Korean-equity distribution; commercialization and legal feasibility remain open.",
+    "6058e09a6f18c3dd19f6": "Binance reports tokenized equities above $3B and broader RWA value around $38B, alongside growing transfers and collateral use; definitions and venue incentives matter.",
+    "aa84fcb4143cec7e93ae": "Reporting describes proposed OpenAI financing and a deferred IPO; proposed valuations and anticipated listings remain uncompleted events.",
+    "317a9dbccef30454ec8b": "Reporting describes voluntary external AI safety audits without binding enforcement or implementation deadlines.",
+    "80d0f9557862dfb435e1": "Paradigm uses a competitive game to explain why unilateral AI slowdowns are difficult; it is a conceptual model rather than a forecast.",
+    "a68db6c791fdc43656be": "Amazon announces a small open decision model for routing, evaluation and action checks; specialized classifiers can reduce agent overhead.",
+    "20c4b9d47cd46efaa7d9": "Google's orbital compute prototype tests technical feasibility; the launch scale required makes commercial orbital data centers a long-term thesis.",
+    "21d30a8e7bb1d4eb93c5": "Cloudflare claims fast decision models for agents; latency and autonomy claims need workload-specific verification.",
+    "0c12174f2a04c07c575c": "A research framework uses model judgments to reduce expensive coding-agent evaluations; benchmark gains do not establish unrestricted self-improvement.",
+    "b49f55d356e7d32cb8b1": "Reporting discusses Jay Clayton as a possible AI policy appointee; a prospective appointment is not confirmed policy.",
+    "333c7272b926761a0dea": "Cathie Wood argues agent spending could reveal demand for payment and service networks; this remains an investment thesis.",
+    "530fe825fff813b4a0d2": "A contributed ServiceNow case study favors narrow workflows, permissions and deterministic checks; expected savings and vendor involvement qualify its ROI claims.",
+    "e88715398c5279e7f6be": "Ghost raises $11M for dedicated personal-agent hardware; preorders and planned shipment are not demonstrated retention or product-market fit.",
+    "2881793d65ace8cac0ce": "Glassnode's weekly pulse shows improving spot flow and on-chain activity alongside cooler ETF inflows and elevated profit-taking.",
+    "bda55c42854aedb21f2c": "A community Hugging Face post claims a compressed large model runs locally; roughly four tokens per second on its laptop example limits the performance interpretation.",
+    "c248788e089f7059c305": "OKX and ICE plan a tokenized-stock venue with stablecoin pools; corporate objections, liquidity and temporary regulatory relief remain constraints.",
+    "a7128a85cbf69ae6acfb": "Reflection announces an open-weight model with claimed lower inference compute; independent validation and deployment economics remain needed.",
+    "1f627d29b840e22efe08": "Binance argues lower BTC volatility explains smaller headline drawdowns and cautions that a rebound does not establish a cycle bottom; historical sample sizes are small.",
+    "55e7fd093ba05325e492": "A market note identifies $84K and $83K as breakdown thresholds, conditional on price action.",
+    "821c016147f20f753322": "Repeated BTC rejection near $87K contrasts with strong equity indexes, suggesting weak crypto-specific demand.",
+    "573932a3de67409177a7": "Reporting attributes a smaller BTC drawdown to institutionalization; this interpretation conflicts with Binance's volatility-adjusted framing.",
+    "662fe563fa119f650f4c": "Chinese AI funding and prospective IPOs show strong capital commitment; neither funding nor valuations prove future profitability.",
+    "ee7db134587ef3c45568": "Mistral previews a large model and plans a later weights release; licensing, pricing and final performance remain material unknowns.",
+    "425c3208ea6349554f08": "Binance's monthly summary reports September ETF inflows, a negative BTC/real-yield correlation and deeper tokenized-equity collateral use.",
+    "98b37b618c468db8832e": "A fraud sentencing story illustrates operational and financial crime exposure but provides little evidence of a broad adoption trend.",
+    "dbf2238d989c00635a68": "Small-token rallies are linked partly to incentives while BTC remains range-bound; this is narrow rotation rather than proof of broad altseason.",
+    "e00a114cb7fc5daa37dd": "Solana announces an audited atomic delivery-versus-payment program; settlement principal risk is reduced while custody, legal and contract risks remain.",
+    "698e30a296f3126e557c": "Reporting says two never-effective FinCEN proposals were withdrawn; this removes proposed burdens rather than all existing compliance obligations.",
+    "ae0567678857dfcbfdd6": "Glassnode reports thin spot volume, limited measured new money, recent-holder selling and stretched altcoin leverage, weakening the breakout case.",
+    "59efb43f5ff3947880c3": "Reporting describes cheaper Haiku pricing and stronger small-model benchmarks; tokenizer changes and task success determine actual savings.",
+    "6134e1eac7002dc1dec5": "Decrypt category landing page repeats article teasers; exclude from news trend counts and avoid double counting.",
+    "43d174dccf9225ad3367": "BTC cohort and ETF cost bases identify potential resistance near $88K and support near $82.3K; these are reference zones rather than price guarantees.",
+    "9eba744f68c4a61de153": "Oil, yields and the dollar rise as BTC falls below $84K intraday, consistent with a macro-driven risk-off episode.",
+    "6fe109d8dd33b773ec6d": "Crypto liquidations rise to roughly $547M and smaller tokens fall harder; L2 shutdown news adds sector-specific pressure.",
+    "f5ceebb4a5c37dcf8c58": "Reporting describes richer interactive AI interfaces, indicating a shift from text answers toward executable workflows.",
+    "9d0c3cf7cd5fb925ab26": "Circle and SAP-backed Tereina announce enterprise stablecoin integration and forthcoming customer proof-of-value work; ecosystem reach is not payment volume.",
+    "e1a7b06651e9c94175b3": "A second Haiku story corroborates price competition but covers the same release, not a second adoption event.",
+    "0288b2f648dbb189e207": "A bullish BTC stair-step interpretation depends on $82K–$83K holding; the following day's break weakens that setup.",
+    "56337ebeede63f212524": "Bitmine says it will stop ETH purchases at 5% of supply; accumulation cessation affects future demand and does not imply selling existing holdings.",
+    "295fa53afc81b1fc8f33": "Europol urges staged post-quantum migration; the article states attack-capable quantum computers do not yet exist.",
+    "576f8703e59d7c0a650f": "Healthleap raises $38M and reports hospital expansion and financial ROI; customer count and outcome figures remain attributed company claims.",
+    "a6202aeef26c0afdbbe2": "LAPTOP memecoin disclosures describe liquidity withdrawal and contested launch economics; concentrated liquidity is a stronger lesson than celebrity assurances.",
+    "e82d687982223af02232": "Meta describes AI-assisted moderation and adversarial testing; action counts are platform claims rather than evidence that harms are eliminated.",
+    "a14de9c2dfe22e508323": "Reporting distinguishes 722 AI math manuscripts from solved problems and identifies limited formal verification; reproducibility remains unresolved.",
+    "743458efb3d1d8503057": "Robinhood's reported $25M BTC purchase is a small adoption signal, with limited market-flow significance and no separate press confirmation in the article.",
+    "ea81e9164d9dfb462183": "Sui reports 40.6M TPS through offchain tunnels during a stress test; this is not sustained base-layer throughput or proven commercial demand.",
+    "309a9793ba4010543ba2": "Tether and Kazakhstan agree to explore a local-currency stablecoin and tokenization pilot; the MOU does not constitute a live product.",
+    "1d49290a04d1de29806a": "Government-linked wallets transfer BTC and BNB; the article explicitly says a sale has not been confirmed.",
+    "3c96fdd2b5f5a05433fa": "Claude's Google Workspace integration brings editing into established applications; permissions and distribution matter more than another chat interface.",
+    "438d6a1d44f059fa1890": "BTC breaks below $83K as oil and yields rise; the newest report weakens prior range-support and bullish stair-step arguments.",
+    "e62c58ec108f929292d8": "CoinDesk reports a potential Cointelegraph sale amid traffic decline, while Cointelegraph denies being for sale; preserve the dispute.",
+    "32dfb6cf0210526c6577": "Ethereum tests increased gas capacity on Sepolia; modest utilization and no mainnet activation date prevent treating the test as a completed production upgrade.",
+    "458fdcffb7b7b6a29641": "Daily roundup combines speculative AI cryptography risks, stalled legislation and Bitmine's purchase cap; these repeat existing themes rather than independent confirmations.",
+    "67c05c3c50180eb5c189": "Lenders describe BTC collateral financing for everyday needs and fixed-rate products; interviews do not establish marketwide adoption or eliminate liquidation risk."
+  },
+  "trends": [
+    {
+      "id": "programmable-payments",
+      "title": "Stablecoins enter business workflows",
+      "status": "strengthening",
+      "confidence": "high",
+      "thesis": "Existing enterprise distribution makes programmable payments easier to adopt. Customer pilots must become retained paid volume.",
+      "confidence_reason": "Several concrete integrations support the direction; scale and margins remain uncertain.",
+      "invalidation": "Pilot conversions stall, retained payment volume falls, or integration costs erase the savings.",
+      "assets": [
+        "COIN",
+        "CRCL",
+        "HOOD"
+      ],
+      "evidence": [
+        {
+          "article_id": "9d0c3cf7cd5fb925ab26",
+          "stance": "supports",
+          "note": "Circle–Tereina distribution into existing business applications; proof-of-value work remains ahead."
+        },
+        {
+          "article_id": "7973a43e276d22b0a32a",
+          "stance": "context",
+          "note": "BlackRock sees agent payments as nearer-term than tokenized compute."
+        },
+        {
+          "article_id": "309a9793ba4010543ba2",
+          "stance": "context",
+          "note": "Kazakhstan agreement is an exploration, not a live stablecoin."
+        }
+      ]
+    },
+    {
+      "id": "tokenized-assets",
+      "title": "Tokenization moves toward usable collateral",
+      "status": "strengthening",
+      "confidence": "medium",
+      "thesis": "Distribution, asset servicing and interoperable settlement can grow before governance tokens capture value.",
+      "confidence_reason": "Reported utilization and infrastructure milestones are substantive, but much coverage comes from interested vendors.",
+      "invalidation": "Net issuance and liquid depth fail to grow, or custody/redemption problems prevent repeat use.",
+      "assets": [
+        "LINK",
+        "SOL",
+        "ETH",
+        "ONDO"
+      ],
+      "evidence": [
+        {
+          "article_id": "6058e09a6f18c3dd19f6",
+          "stance": "supports",
+          "note": "Binance reports increased tokenized-equity value and collateral use; transfers are not unique economic activity."
+        },
+        {
+          "article_id": "e00a114cb7fc5daa37dd",
+          "stance": "supports",
+          "note": "Solana DvP standardizes atomic settlement; other investment risks remain."
+        },
+        {
+          "article_id": "1fab798ccbb25a2c734d",
+          "stance": "challenges",
+          "note": "Korean-equity MOU is conditional on future commercialization."
+        },
+        {
+          "article_id": "c248788e089f7059c305",
+          "stance": "context",
+          "note": "OKX–ICE planned market still faces liquidity and regulatory constraints."
+        }
+      ]
+    },
+    {
+      "id": "agent-economics",
+      "title": "Cheaper AI favors useful workflows",
+      "status": "strengthening",
+      "confidence": "high",
+      "thesis": "Lower task costs expand viable automation. Distribution and verified completed-task economics matter more than a generic chatbot.",
+      "confidence_reason": "Price reductions are concrete; benchmarks and projected savings do not prove customer ROI.",
+      "invalidation": "Retries, human review and errors consume savings, or customers fail to renew.",
+      "assets": [
+        "NVDA",
+        "NET",
+        "COIN"
+      ],
+      "evidence": [
+        {
+          "article_id": "59efb43f5ff3947880c3",
+          "stance": "supports",
+          "note": "Small-model pricing competition; account for tokenization and retries."
+        },
+        {
+          "article_id": "3c96fdd2b5f5a05433fa",
+          "stance": "supports",
+          "note": "Agents edit in existing productivity workflows."
+        },
+        {
+          "article_id": "530fe825fff813b4a0d2",
+          "stance": "context",
+          "note": "Contributed ServiceNow case study supports narrow workflows; savings are partly projected."
+        }
+      ]
+    },
+    {
+      "id": "market-demand",
+      "title": "Crypto recovery lacks durable cash demand",
+      "status": "weakening",
+      "confidence": "medium",
+      "thesis": "Structural adoption is expanding while thin spot participation and crowded leverage weaken near-term breakout quality.",
+      "confidence_reason": "On-chain research and contemporaneous reporting agree on fragility; this does not forecast a four-year outcome.",
+      "invalidation": "Sustained spot and ETF demand returns, US-session buying improves, and market breadth expands.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "COIN",
+        "HOOD"
+      ],
+      "evidence": [
+        {
+          "article_id": "ae0567678857dfcbfdd6",
+          "stance": "supports",
+          "note": "Thin spot volume, limited measured fresh money and stretched altcoin leverage."
+        },
+        {
+          "article_id": "438d6a1d44f059fa1890",
+          "stance": "supports",
+          "note": "Latest BTC report breaks the earlier $83K range support."
+        },
+        {
+          "article_id": "425c3208ea6349554f08",
+          "stance": "challenges",
+          "note": "September ETF demand was positive; different observation windows matter."
+        }
+      ]
+    },
+    {
+      "id": "treasury-buyers",
+      "title": "Treasury accumulation faces limits",
+      "status": "mixed",
+      "confidence": "medium",
+      "thesis": "Corporate balance-sheet adoption can coexist with expensive financing and a declining marginal bid.",
+      "confidence_reason": "Specific financing constraints and accumulation caps are visible; no forced sales are inferred.",
+      "invalidation": "Financing improves and new buyers replace capped accumulation with sustained net purchases.",
+      "assets": [
+        "BTC",
+        "ETH",
+        "COIN"
+      ],
+      "evidence": [
+        {
+          "article_id": "56337ebeede63f212524",
+          "stance": "supports",
+          "note": "Bitmine intends to stop accumulating at its 5% cap; not an announcement of selling."
+        },
+        {
+          "article_id": "71f3201f90f67694851d",
+          "stance": "supports",
+          "note": "Strategy NAV premium and financing costs limit dependable buying."
+        },
+        {
+          "article_id": "743458efb3d1d8503057",
+          "stance": "challenges",
+          "note": "Robinhood reported BTC purchase shows adoption but limited flow significance."
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Agent permissions become adoption infrastructure",
+      "status": "early",
+      "confidence": "medium",
+      "thesis": "Money-moving agents need identity, spending limits, auditability and operational safeguards.",
+      "confidence_reason": "Current exploit and authorization risks are observable; speculative cryptography breakthroughs are not established.",
+      "invalidation": "Customers will not pay, controls fail in production, or incumbents bundle equivalent protection.",
+      "assets": [
+        "NET",
+        "LINK",
+        "ETH"
+      ],
+      "evidence": [
+        {
+          "article_id": "317a9dbccef30454ec8b",
+          "stance": "context",
+          "note": "Voluntary safety audits do not establish enforceable protection."
+        },
+        {
+          "article_id": "295fa53afc81b1fc8f33",
+          "stance": "supports",
+          "note": "Phased wallet migration work illustrates security coordination needs."
+        },
+        {
+          "article_id": "a14de9c2dfe22e508323",
+          "stance": "challenges",
+          "note": "AI math claims require verification and do not demonstrate broken wallet signatures."
+        }
+      ]
+    }
+  ],
+  "forecasts": [
+    {
+      "id": "NVDA-2027-10-08",
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "kind": "stock",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        160,
+        200
+      ],
+      "base": [
+        280,
+        330
+      ],
+      "bull": [
+        360,
+        420
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 237.47,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "COIN-2027-10-08",
+      "symbol": "COIN",
+      "name": "Coinbase",
+      "kind": "stock",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        100,
+        140
+      ],
+      "base": [
+        200,
+        240
+      ],
+      "bull": [
+        280,
+        350
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://stockanalysis.com/stocks/coin/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 178.45,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "CRCL-2027-10-08",
+      "symbol": "CRCL",
+      "name": "Circle",
+      "kind": "stock",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        40,
+        60
+      ],
+      "base": [
+        95,
+        115
+      ],
+      "bull": [
+        140,
+        180
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://stockanalysis.com/stocks/crcl/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 80.84,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "HOOD-2027-10-08",
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "kind": "stock",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        65,
+        85
+      ],
+      "base": [
+        120,
+        145
+      ],
+      "bull": [
+        165,
+        200
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://stockanalysis.com/stocks/hood/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 109.51,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "NET-2027-10-08",
+      "symbol": "NET",
+      "name": "Cloudflare",
+      "kind": "stock",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        200,
+        260
+      ],
+      "base": [
+        320,
+        380
+      ],
+      "bull": [
+        430,
+        500
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://stockanalysis.com/stocks/net/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 342.97,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "LINK-2027-10-08",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "kind": "coin",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        7,
+        10
+      ],
+      "base": [
+        16,
+        22
+      ],
+      "bull": [
+        28,
+        38
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/link-chainlink"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "SOL-2027-10-08",
+      "symbol": "SOL",
+      "name": "Solana",
+      "kind": "coin",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        55,
+        80
+      ],
+      "base": [
+        140,
+        180
+      ],
+      "bull": [
+        220,
+        280
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/sol-solana"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "ETH-2027-10-08",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "kind": "coin",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        1400,
+        1900
+      ],
+      "base": [
+        3000,
+        3800
+      ],
+      "bull": [
+        4500,
+        5500
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/eth-ethereum"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "BTC-2027-10-08",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "kind": "coin",
+      "horizon": "2027-10-08",
+      "currency": "USD",
+      "bear": [
+        50000,
+        65000
+      ],
+      "base": [
+        90000,
+        110000
+      ],
+      "bull": [
+        125000,
+        150000
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "Bear: macro pressure and compression. Base: adoption with moderate recovery. Bull: strong adoption plus investor demand. Judgmental ranges from prior conversation, not a complete fair-value model.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/btc-bitcoin"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "NVDA-2030-12-31",
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "kind": "stock",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        150,
+        220
+      ],
+      "base": [
+        350,
+        500
+      ],
+      "bull": [
+        650,
+        850
+      ],
+      "method": "Subjective scenario; earnings/revenue sensitivity",
+      "assumptions": "2030 base: EPS $14–20 × 25 P/E. Continued earnings growth; no large multiple expansion required.",
+      "sources": [
+        "https://stockanalysis.com/stocks/nvda/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 237.47,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "COIN-2030-12-31",
+      "symbol": "COIN",
+      "name": "Coinbase",
+      "kind": "stock",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        80,
+        150
+      ],
+      "base": [
+        300,
+        450
+      ],
+      "bull": [
+        600,
+        850
+      ],
+      "method": "Subjective scenario; earnings/revenue sensitivity",
+      "assumptions": "2030 base: net income $3–4.5B / 300M diluted shares × 30 P/E. Needs durable profit beyond trading booms.",
+      "sources": [
+        "https://stockanalysis.com/stocks/coin/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 178.45,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "CRCL-2030-12-31",
+      "symbol": "CRCL",
+      "name": "Circle",
+      "kind": "stock",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        30,
+        65
+      ],
+      "base": [
+        120,
+        200
+      ],
+      "bull": [
+        300,
+        450
+      ],
+      "method": "Subjective scenario; earnings/revenue sensitivity",
+      "assumptions": "2030 base: net income $1.2–2B / 300M diluted shares × 30 P/E. USDC growth must offset rate and distribution pressure.",
+      "sources": [
+        "https://stockanalysis.com/stocks/crcl/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 80.84,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "HOOD-2030-12-31",
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "kind": "stock",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        50,
+        90
+      ],
+      "base": [
+        180,
+        280
+      ],
+      "bull": [
+        400,
+        550
+      ],
+      "method": "Subjective scenario; earnings/revenue sensitivity",
+      "assumptions": "2030 base: EPS $6–8 × 30–35 P/E. Requires monetization and retention without excessive dilution.",
+      "sources": [
+        "https://stockanalysis.com/stocks/hood/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 109.51,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "NET-2030-12-31",
+      "symbol": "NET",
+      "name": "Cloudflare",
+      "kind": "stock",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        140,
+        240
+      ],
+      "base": [
+        300,
+        500
+      ],
+      "bull": [
+        650,
+        900
+      ],
+      "method": "Subjective scenario; earnings/revenue sensitivity",
+      "assumptions": "2030 base: revenue $8–10B / 400M diluted shares × 15–20 revenue multiple. Valuation remains demanding.",
+      "sources": [
+        "https://stockanalysis.com/stocks/net/"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": {
+        "price": 342.97,
+        "updated_at": "2026-10-07T20:00:00Z",
+        "source": "Stock Analysis / October 7 close"
+      }
+    },
+    {
+      "id": "BTC-2030-12-31",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "kind": "coin",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        35000,
+        70000
+      ],
+      "base": [
+        140000,
+        220000
+      ],
+      "bull": [
+        300000,
+        450000
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "2030 base implies $2.9–4.5T at illustrative 20.5M supply. Requires sustained institutional and investment demand.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/btc-bitcoin"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "ETH-2030-12-31",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "kind": "coin",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        800,
+        1800
+      ],
+      "base": [
+        5000,
+        8000
+      ],
+      "bull": [
+        12000,
+        18000
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "2030 base implies $600–960B at illustrative 120M supply. Supply depends on issuance and burning.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/eth-ethereum"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "SOL-2030-12-31",
+      "symbol": "SOL",
+      "name": "Solana",
+      "kind": "coin",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        25,
+        70
+      ],
+      "base": [
+        250,
+        400
+      ],
+      "bull": [
+        600,
+        900
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "2030 base implies $163–260B at illustrative 650M supply, not a verified supply projection.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/sol-solana"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    },
+    {
+      "id": "LINK-2030-12-31",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "kind": "coin",
+      "horizon": "2030-12-31",
+      "currency": "USD",
+      "bear": [
+        4,
+        9
+      ],
+      "base": [
+        30,
+        50
+      ],
+      "bull": [
+        80,
+        120
+      ],
+      "method": "Subjective adoption and market-value scenario; not independently validated",
+      "assumptions": "2030 base implies $30–50B fully diluted value at 1B total tokens. Paid service demand must translate to LINK purchases.",
+      "sources": [
+        "https://api.coinpaprika.com/v1/tickers/link-chainlink"
+      ],
+      "invalidation": "Reassess when adoption, margins, supply/dilution, or valuation assumptions materially change.",
+      "reference_quote": null
+    }
+  ]
+}

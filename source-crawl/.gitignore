@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+dashboard/dist/
+dashboard/preview.png
+git-export/
